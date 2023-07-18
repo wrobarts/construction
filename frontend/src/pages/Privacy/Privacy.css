@@ -1,0 +1,43 @@
+.privacy {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+    width: 60vw;
+    margin-left: 20vw;
+}
+
+.privacy-section-container {
+    color: var(--text-secondary);
+}
+
+.privacy-section-title {
+    font-size: 2rem;
+}
+
+.privacy-section-text {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    font-weight: 300;
+}
+
+@media (max-width: 812px) {
+    .privacy {
+        width: 80vw;
+        margin-left: 10vw;
+    }
+}
+
+@media (max-width: 500px) {
+    .privacy {
+        width: 90vw;
+        margin-left: 5vw;
+    }
+
+    .privacy-section-title {
+        font-size: 1.6rem;
+    }
+    
+    .privacy-section-text {
+        font-size: 1rem;
+        line-height: 1.2rem;
+    }
+}

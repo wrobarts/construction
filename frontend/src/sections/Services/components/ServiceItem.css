@@ -1,0 +1,29 @@
+.service-item-container {
+    border: 3px solid var(--text-secondary);
+    background-color: white;
+}
+
+.service-item-title-container {
+    background-color: var(--text-secondary);
+    overflow: hidden;
+}
+
+.service-item-title {
+    color: var(--text-title-secondary);
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 1rem;
+}
+
+.service-item-description {
+    color: var(--text-secondary);
+    margin: 1rem;
+    line-height: 1.8rem;
+    font-weight: 300;
+}
+
+@media (max-width: 1366px) {
+    .service-item-title {
+        font-size: 1.6rem;
+    }
+}

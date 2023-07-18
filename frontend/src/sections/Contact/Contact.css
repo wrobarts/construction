@@ -1,0 +1,9 @@
+.contact-section-container {
+    background-image: linear-gradient(to bottom, #FF9505, transparent);
+}
+
+.contact-triangle {
+    background-color: white;
+    height: 10rem;
+    clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+}

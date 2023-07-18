@@ -1,0 +1,19 @@
+.thank-you {
+    margin: 8rem 1rem 8rem 1rem;
+}
+
+.thank-you-title {
+    font-size: 3rem;
+    color: var(--text-secondary);
+    font-weight: 400;
+}
+
+.thank-you-text {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+}
+
+.thank-you-link {
+    color: var(--text-title-secondary);
+    font-size: 2rem;
+}

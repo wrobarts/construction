@@ -1,0 +1,20 @@
+:root {
+    --logo-color: #CC5803;
+    --text-link-header: #222222;
+    --text-link-header-hover: #818181;
+    --navbar-link-hover: #F4F4F4;
+    --navbar-button: #FFDD00;
+    --navbar-button-hover: #B29A00;
+    --navbar-background: #D8D8D8;
+    --text-title-main: #CC5803;
+    --text-title-secondary: #FF9505;
+    --text-title-accent: #CF9958;
+    --button-main: #CC5803;
+    --button-main-hover: #E38947;
+    --text-main: #E9E9E9;
+    --text-secondary: #191919;
+    --text-accent: #CACACA;
+    --background-main: #191919;
+    --icon-main: #9EF01A;
+    --icon-main-hover: #6FAA11;
+}

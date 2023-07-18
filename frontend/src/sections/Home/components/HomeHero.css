@@ -1,0 +1,61 @@
+.home-hero {
+    background-image: url('../../../images/construction_hero.jpeg');
+    background-position: 0 0;
+    width: 100%;
+    height: calc(100vw * (2726 / 4089));
+    max-height: 100vh;
+    min-height: 52rem;
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+@media (max-width: 1366px) {
+    .home-hero {
+        height: calc(100vw * (2726 / 4089));
+        min-height: 48rem;
+    }
+}
+
+@media (max-width: 1200px) {
+    .home-hero {
+        min-height: 42rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    .home-hero {
+        min-height: 38rem;
+    }
+}
+
+@media (max-width: 950px) {
+    .home-hero {
+        min-height: 34rem;
+    }
+}
+
+@media (max-width: 812px) {
+    .home-hero {
+        min-height: 30rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .home-hero {
+        min-height: 26rem;
+    }
+}
+
+@media (max-width: 650px) {
+    .home-hero {
+        min-height: 18rem;
+    }
+}
+
+@media (max-width: 450px) {
+    .home-hero {
+        min-height: 14rem;
+    }
+}
